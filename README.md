@@ -22,6 +22,10 @@ Sending A Link .</p>
 <h6>$ chmod +x *</h6>
 <h6>$ bash CamHack.sh</h6>
 <p3> ~~~Now click <strong>Enter</strong> and Choose option 1 <strong>ngrok</strong> then choose option 1 <strong>Festival</strong> then enter a name example :- <strong>Birthday</strong> then wait to download ngrok then you get a link sent the link to the victim and <strong>enjoy</strong> to copy the image file type <strong>cp imagefilename /sdcard </strong> Now open your file manager Internal storage there you can see the image ~~~</p3>
+
+<H2>Screenshots</H2>
+<img src = https://www.facebook.com/101198981801249/photos/a.103528231568324/106792127908601/?type=3&eid=ARDRmYowpbxU7NRjQ4KG3zeFSiL-EZ3dcejVKxjmgbqDLCdGlCJoMd4VGNeWE7sI60odDGud-PMPJMPn&__xts__%5B0%5D=68.ARAoCqZ5vUs98kCj12oqwMfRGQxKtmOeuOQBG9GKGgUjbJL2GfvZ3TKb4a4wzGaSYmGkGzMqwaTT1uYNTVqll4-b76m2aWdTWOkWn4rcT3Hm_Nl4ZExIiB6hO8eR3MNtPMxB6cRolJm1v8SNMBATHZC-Z3jiF1Niayy7v-ieVx3fslNptQSsyrjI57GI9DhjXhtY6ovmc7OGIyR_CwWuQfY-5FZFzUtBP77633mNpBDJ82eFJwj5Jo-1owpg5tFMgxYWmhHYOfPKfFQpafnEu47dYk4CnLCVEZ-tKcNoV9LSA3iLnNy3saNGc3ua3hfY3beV2wYZU6Fs92XjFmXwVqY&__tn__=EEHH-R>
+
 <H3>•••For educational purposes only•••</H3>
 
 <h4>For More Details</h4>
