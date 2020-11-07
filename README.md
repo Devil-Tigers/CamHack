@@ -25,9 +25,9 @@ Sending A Link .</p>
 <H3>•••For educational purposes only•••</H3>
 
 <h4>For More Details</h4>
-<h3>YouTube :- [The Devil Tigers](https://www.youtube.com/c/thmalayalam)</h3>
-<h3>Instagram :- [the_devil_tigers](https://www.instagram.com/invites/contact/?i=1fmvpwmucojlo&utm_content=4xduly5)</h3>
-<h3>Facebook :- [The Devil Tigers](https://www.facebook.com/The-Devil-Tigers-101198981801249/)</h3>
+•YouTube :- [The Devil Tigers](https://www.youtube.com/c/thmalayalam)
+•Instagram :- [the_devil_tigers](https://www.instagram.com/invites/contact/?i=1fmvpwmucojlo&utm_content=4xduly5)
+•Facebook :- [The Devil Tigers](https://www.facebook.com/The-Devil-Tigers-101198981801249/)
 
 
 
