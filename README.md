@@ -17,13 +17,17 @@ Sending A Link .</p>
 <h6>$ pkg install php -y </h6>
 <h6>$ pkg install openssh -y </h6>
 <h6>$ pkg install wget -y </h6>
-<h6>$ git clone https://github.com/tigerhackmalayalam/CamHack.git</h6>
+<h6>$ git clone https://github.com/Devil-Tigers/CamHack.git</h6>
 <h6>$ cd CamHack
 <h6>$ chmod +x *</h6>
 <h6>$ bash CamHack.sh</h6>
 <p3> ~~~Now click <strong>Enter</strong> and Choose option 1 <strong>ngrok</strong> then choose option 1 <strong>Festival</strong> then enter a name example :- <strong>Birthday</strong> then wait to download ngrok then you get a link sent the link to the victim and <strong>enjoy</strong> to copy the image file type <strong>cp imagefilename /sdcard </strong> Now open your file manager Internal storage there you can see the image ~~~</p3>
 <H3>•••For educational purposes only•••</H3>
 
+<h4>For More Details</h4>
+<h3>YouTube :- [The Devil Tigers](https://www.youtube.com/c/thmalayalam)</h3>
+<h3>Instagram :- [the_devil_tigers](https://www.instagram.com/invites/contact/?i=1fmvpwmucojlo&utm_content=4xduly5)</h3>
+<h3>Facebook :- [The Devil Tigers](https://www.facebook.com/The-Devil-Tigers-101198981801249/)</h3>
 
 
 
