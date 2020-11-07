@@ -25,7 +25,7 @@ Sending A Link .</p>
 
 <H2>Screenshots</H2>
 
-<img src = ![Screenshot_20201106-210449~4](https://user-images.githubusercontent.com/69100349/98443849-29e7b880-2134-11eb-87dc-4fe5ab210070.png) >
+![Screenshot_20201106-210449~4](https://user-images.githubusercontent.com/69100349/98443849-29e7b880-2134-11eb-87dc-4fe5ab210070.png)
 
 <H3>•••For educational purposes only•••</H3>
 
