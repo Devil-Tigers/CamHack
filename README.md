@@ -24,7 +24,7 @@ Sending A Link .</p>
 <p3> ~~~Now click <strong>Enter</strong> and Choose option 1 <strong>ngrok</strong> then choose option 1 <strong>Festival</strong> then enter a name example :- <strong>Birthday</strong> then wait to download ngrok then you get a link sent the link to the victim and <strong>enjoy</strong> to copy the image file type <strong>cp imagefilename /sdcard </strong> Now open your file manager Internal storage there you can see the image ~~~</p3>
 
 <H2>Screenshots</H2>
-<img src = >
+<img src =https://yt3.ggpht.com/a/AATXAJzwMDaJMzKG-xN3jYcQC-jdx8omS16S7cO5k70oyA=s176-c-k-c0x00ffffff-no-rj>
 <H3>•••For educational purposes only•••</H3>
 
 <h4>For More Details</h4>
