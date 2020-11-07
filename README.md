@@ -25,17 +25,7 @@ Sending A Link .</p>
 
 <H2>Screenshots</H2>
 
-<img src = content://com.opera.browser.FileProvider/images/share/16047583132443795628671138963576.png>
-er/images/share/16047583132443795628671138963576.png>
-<img src = content://com.opera.browser.FileProvider/images/share/16047583132443795628671138963576.png>
-er/images/share/16047583132443795628671138963576.png>
-er/images/share/16047583132443795628671138963576.png>
-<img src = content://com.opera.browser.FileProvider/images/share/16047583132443795628671138963576.png>
-er/images/share/16047583132443795628671138963576.png>
-er/images/share/16047583132443795628671138963576.png>
-er/images/share/16047583132443795628671138963576.png>
-<img src = content://com.opera.browser.FileProvider/images/share/16047583132443795628671138963576.png>
-er/images/share/16047583132443795628671138963576.png>
+
 
 <H3>•••For educational purposes only•••</H3>
 
