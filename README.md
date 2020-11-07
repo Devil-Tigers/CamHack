@@ -26,17 +26,16 @@ Sending A Link .</p>
 <H2>Screenshots</H2>
 
 <img src = content://com.opera.browser.FileProvider/images/share/16047583132443795628671138963576.png>
-<H3>•••For educational purposes only•••</H3>
-
-<h4>For More Details</h4>
-
-
-•YouTube:- [The Devil Tigers](https://www.youtube.com/c/thmalayalam)
-
-
-•Instagram:- [the_devil_tigers](https://www.instagram.com/invites/contact/?i=1fmvpwmucojlo&utm_content=4xduly5)
-
-
+er/images/share/16047583132443795628671138963576.png>
+<img src = content://com.opera.browser.FileProvider/images/share/16047583132443795628671138963576.png>
+er/images/share/16047583132443795628671138963576.png>
+er/images/share/16047583132443795628671138963576.png>
+<img src = content://com.opera.browser.FileProvider/images/share/16047583132443795628671138963576.png>
+er/images/share/16047583132443795628671138963576.png>
+er/images/share/16047583132443795628671138963576.png>
+er/images/share/16047583132443795628671138963576.png>
+<img src = content://com.opera.browser.FileProvider/images/share/16047583132443795628671138963576.png>
+er/images/share/16047583132443795628671138963576.png>
 
 <H3>•••For educational purposes only•••</H3>
 
